@@ -1,1 +1,1 @@
-## std algorithm
+## Study JS Algorithm
