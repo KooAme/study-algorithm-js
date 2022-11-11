@@ -7,6 +7,6 @@ function solution(my_string, letter) {
         } 
         cnt++;
     }
-    
     return answer;
 }
+//filter와 split을 사용해서도 가능
