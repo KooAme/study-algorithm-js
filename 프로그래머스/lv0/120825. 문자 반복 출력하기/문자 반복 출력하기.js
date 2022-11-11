@@ -13,3 +13,6 @@ function solution(my_string, n) {
     }
     return answer;
 }
+
+//var answer = [...my_string].map(v => v.repeat(n)).join(""); 
+//repeat사용해서도 가능
