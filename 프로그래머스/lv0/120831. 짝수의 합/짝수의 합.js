@@ -9,4 +9,5 @@ function solution(n) {
     }
     return value;
 }
-// n보다 이하, 짝수
+//let value = Math.floor(n/2);
+//return value*(value+1);
