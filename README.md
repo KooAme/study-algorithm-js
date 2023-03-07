@@ -1,1 +1,1 @@
-## Study JS & Python Algorithm
+## Study JS Algorithm
